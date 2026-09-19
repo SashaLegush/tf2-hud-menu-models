@@ -1,0 +1,5 @@
+# mark repo as valve data format instead of QuakeC
+*.mdl linguist-detectable=true
+*.vtx linguist-detectable=true linguist-language=vdf
+*.md linguist-detectable=true linguist-language=vdf
+*.vvd linguist-detectable=true linguist-language=vdf
