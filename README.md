@@ -22,4 +22,4 @@ Upon loading into the game, your class selection screen will be a missing textur
 
 In theory, this can also be used to load fully custom models, for example, to replace the round sign model with a fully custom one, complete with a custom animation
 
-I've added the [decompiled assets](https://github.com/SashaLegush/tf2-hud-menu-models/tree/main/decompiled) to the repository, if you are interested in making custom models for tf2/compiling more models (casual and competitive badges), take a look there!
+I've added the [decompiled assets](https://github.com/SashaLegush/tf2-hud-menu-models/tree/main/decompiled) along with the [textures](https://github.com/SashaLegush/tf2-hud-menu-models/tree/main/textures) to the models as .pngs to the repository, if you are interested in making custom models for tf2/compiling more models (casual and competitive badges), take a look there!
