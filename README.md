@@ -17,3 +17,5 @@ Let's say you want to get the class selection model in your custom HUD, you need
 Upon loading into the game, your class selection screen will be a missing texture mess, that is because you need to add the textures, simply go to materials/vgui/replay/thumbnails (if you dont have those folders, simply create them) and create a folder called models inside of it, put the vtf's and vmt's that you need and restart TF2/run a sv_cheats 1;mat_reloadallmaterials command in console, if you did everything correctly, it should use the textures you provided and work in every server, no matter what sv_pure value is set
 
 In theory, this can also be used to load fully custom models, for example, to replace the round sign model with a fully custom one, complete with a custom animation
+
+I've added the [decompiled assets](https://github.com/SashaLegush/tf2-hud-menu-models/tree/main/decompiled) to the repository, if you are interested in making custom models for tf2/compiling more models (casual and competitive badges), take a look there!
