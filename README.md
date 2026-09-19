@@ -10,7 +10,7 @@
 
 # Why?
 
-By default, these models take the textures from materials/vgui/models, which while you can change out by creating those folders and adding the textures you want in there, will not work on sv_pure 1 or 2 servers, for whatever reason. The models provided here use the textures from vgui/replay/thumbnails/models, with the directory vgui/replay/thumbnails being whitelisted by Valve, it allows for the textures to be loaded on all servers, no matter the sv_pure value.
+By default, these models take the textures from materials/models/vgui, which while you can change out by creating those folders and adding the textures you want in there, will not work on sv_pure 1 or 2 servers, for whatever reason. The models provided here use the textures from vgui/replay/thumbnails/models, with the directory vgui/replay/thumbnails being whitelisted by Valve, it allows for the textures to be loaded on all servers, no matter the sv_pure value.
 
 # Implementation in your custom HUD
 
