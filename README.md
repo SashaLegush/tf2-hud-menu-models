@@ -4,6 +4,12 @@ This same setup is used in (currently in development branch of) [SolarLight-HUD 
 
 This repository uses the same method used there to compile almost every other VGUI menu model in tf2, with a few exceptions
 
+![SolarLightHUD-Redux](solarlighthudredux-teammenu.png)
+*_SolarLightHUD Redux_*
+
+![PASS Fortress HUD](passfortresshud-teammenu.png)
+*_PASS Fortress HUD_*
+
 # Usage
 
 Let's say you want to get the class selection model in your custom HUD, you need to download the source of the repository, open the folder <ins>ui_class01</ins>, and drop the sub-folder named models inside of your HUD's root directory (where info.vdf is located)
