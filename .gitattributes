@@ -3,3 +3,5 @@
 *.vtx linguist-detectable=true linguist-language=vdf
 *.md linguist-detectable=true linguist-language=vdf
 *.vvd linguist-detectable=true linguist-language=vdf
+*.smd linguist-detectable=true linguist-language=vdf
+*.qc linguist-detectable=true linguist-language=vdf
