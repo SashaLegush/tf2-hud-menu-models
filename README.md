@@ -2,6 +2,8 @@
 
 > This same setup is used in (currently in development branch of) [SolarLightHUD Redux's](https://github.com/SolarLightTF2/solarlighthud-redux/tree/team-class-select-revamp) team menu.
 
+> I'm not sure whether it was SolarLight who actually discovered it, but i have not seen anyone use it before, so credit goes to [SolarLightTF2](https://youtube.com/SolarLight)
+
 ![SolarLightHUD-Redux](solarlighthudredux-teammenu.png)
 *_SolarLightHUD Redux_*
 
